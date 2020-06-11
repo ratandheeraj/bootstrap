@@ -35,7 +35,6 @@ body {
   padding: 70px 30px 70px 30px;
   margin: 0px auto;
   background: #9575cd;
-  color: floralwhite;
 }
 
 address {
@@ -46,6 +45,8 @@ address {
 .radio-r {
   padding-right: 5px;
   margin-right: 5px;
+  color: #0f0f0f;
+  margin-left: 5px;
 }
 .tab-content {
   border-left: 1px solid #ddd;
